@@ -6,4 +6,8 @@
 <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="add_receipt">Add Receipt</string>
+    <string name="input_manually">Input Manually</string>
+    <string name="open_photos">Open Photos</string>
+    <string name="take_a_new_photo">Take a new photo</string>
+    <string name="new_photo">New Photo</string>
 </resources>
