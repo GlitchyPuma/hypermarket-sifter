@@ -13,4 +13,9 @@
     <string name="title_activity_sifter">Sifter</string>
     <string name="tab_text_1">Tab 1</string>
     <string name="tab_text_2">Tab 2</string>
+    <string name="item_name">Item Name</string>
+    <string name="price">Price</string>
+    <string name="money_sign">$</string>
+    <string name="enter">Enter</string>
+    <string name="item_type">Item Type</string>
 </resources>
