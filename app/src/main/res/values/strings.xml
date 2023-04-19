@@ -18,4 +18,57 @@
     <string name="money_sign">$</string>
     <string name="enter">Enter</string>
     <string name="item_type">Item Type</string>
+
+    <string-array name="receipt_items_1">
+        <string>Fujifilm</string>
+        <string>PREM SALTINE</string>
+        <string>CHEEZ IT LG</string>
+        <string>PEPPERIDGE</string>
+        <string>SOUR STRIPS</string>
+        <string>CHEETO</string>
+        <string>RUFFLES</string>
+        <string>SOUR PUNCH</string>
+        <string>Charm Strong</string>
+    </string-array>
+
+    <string-array name="receipt_prices_1">
+        <string>$11.49</string>
+        <string>$4.29</string>
+        <string>$3.89</string>
+        <string>$3.99</string>
+        <string>$3.69</string>
+        <string>$4.00</string>
+        <string>$3.50</string>
+        <string>$3.99</string>
+        <string>$15.59</string>
+    </string-array>
+
+    <string-array name="receipt_types_1">
+        <string>Electronics</string>
+        <string>Grocery</string>
+        <string>Grocery</string>
+        <string>Grocery</string>
+        <string>Grocery</string>
+        <string>Grocery</string>
+        <string>Grocery</string>
+        <string>Grocery</string>
+        <string>Health &amp; Beauty</string>
+    </string-array>
+
+
+
+    <string-array name="item_types">
+        <item>Select a catgeory</item>
+        <item>Grocery</item>
+        <item>Household</item>
+        <item>Health &amp; Beauty</item>
+        <item>Work &amp; School</item>
+        <item>Electronics</item>
+        <item>Entertainment</item>
+        <item>Child Care</item>
+        <item>Pet Care</item>
+        <item>Gift</item>
+    </string-array>
+
+
 </resources>
